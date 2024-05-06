@@ -6,15 +6,15 @@ A very small chat program made with shell script.
 
 First, install dependencies on Debian/Ubuntu with:
 ```console
-sudo apt install netcat
+sudo apt install ncat
 ```
 On Arch Linux use:
 ```console
-sudo pacman -S netcat
+sudo pacman -S ncat
 ```
 On Fedora use:
 ```console
-sudo dnf install netcat
+sudo dnf install ncat
 ```
 Now download the .sh file and double click to run.
 
